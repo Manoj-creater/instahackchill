@@ -125,21 +125,5 @@ and many more options...
 </p>
 
 
-## CONNECT WITH US :
-
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/hackerwasiii)
-<a href="https://github.com/evildevill"><img title="Github" src="https://img.shields.io/badge/evildevill-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/blckspidr)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://hackerwasii.com)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hackerwasii)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://facebook.com/hackerwasii)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/blckspidr)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-Number-red?style=for-the-badge&logo=whatsapp)](https://wa.me/923137119351)
-<a href="https://youtube.com/Hackerwasii"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackerwasii-red?style=for-the-badge&logo=Youtube"></a>
-
-## Support Me On Patreon:
-[![Patreon](https://img.shields.io/badge/Patreon-DONATE-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/hackerwasii)
-
-
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
